@@ -1,0 +1,15 @@
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\bin\Debug\net8.0\JakisProjekt.exe
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\bin\Debug\net8.0\JakisProjekt.deps.json
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\bin\Debug\net8.0\JakisProjekt.runtimeconfig.json
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\bin\Debug\net8.0\JakisProjekt.dll
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\bin\Debug\net8.0\JakisProjekt.pdb
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\JakisProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\JakisProjekt.AssemblyInfoInputs.cache
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\JakisProjekt.AssemblyInfo.cs
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\JakisProjekt.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\JakisProjekt.sourcelink.json
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\JakisProjekt.dll
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\refint\JakisProjekt.dll
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\JakisProjekt.pdb
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\JakisProjekt.genruntimeconfig.cache
+C:\Users\student\Source\Repos\8UL64R\systemy-informatyczne\JakisProjekt\obj\Debug\net8.0\ref\JakisProjekt.dll
